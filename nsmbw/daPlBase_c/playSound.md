@@ -1,5 +1,5 @@
 ## `void daPlBase_c::playSound(daPlBase_c *this, SFX sfx, long shouldPlay)`
-### `80057e70` 
+### `0x80057e70` 
 This function plays sounds originating from the player. It can play any sound.
 ### Parameters
 1. **daPlBase_c pointer**: A pointer to a `daPlBase_c` class. This is generally just a pointer to the player actor that runs the function.

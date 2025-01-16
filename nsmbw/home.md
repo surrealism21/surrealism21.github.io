@@ -7,6 +7,10 @@ Oh yeah, and this garbage
 
 ## NSMBW Base Functions documentation
 These are a bunch of base game functions I wanted to yap about. Enjoy or use for your coding.
-- nsmbw<br>
-    - daPlBase_c::<br>
-        - [playSound](/daPlBase_c/playSound.md)<br>
+- `nsmbw`<br>
+    - `daPlBase_c::`<br>
+        - [`playSound`](/daPlBase_c/playSound.md)<br>
+    - `daPyMng_c::`<br>
+        - [`incCoin`](/daPyMng_c/incCoin.md)<br>
+        - [`addScore`](/daPyMng_c/addScore.md)<br>
+        - [`FUN_80060170`](/daPyMng_c/FUN_80060170.md)
