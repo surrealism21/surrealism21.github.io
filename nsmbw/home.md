@@ -7,4 +7,4 @@ Public NSMBW servers for mods I work on:<br>
 These are a bunch of base game functions I wanted to yap about. Enjoy or use for your coding.
 - nsmbw<br>
     - daPlBase_c::<br>
-        - [playSound](/nsmbw/daPlBase_c/playSound.md)<br>
+        - [playSound](/nsmbw/daPlBase_c/playSound.html)<br>
