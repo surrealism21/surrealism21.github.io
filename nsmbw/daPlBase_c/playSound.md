@@ -15,6 +15,6 @@ This function is called by the player. Here are the callings I understand.<br>
 `80146154` - Small Mario sustain jumping<br>
 `80146168` - Mini Mario sustain jumping<br>
 `8014617c` - Big Mario+ sustain jumping<br>
+To determine the jump number of the player in a triple jump, it is taken from `dAcPy_c`.<br>
 **Vine Related**<br>
-`80132ef0` - Moving on a vine
-To determine the jump number of the player in a triple jump, it is taken from `dAcPy_c`.
+`80132ef0` - Moving on a vine<br>
