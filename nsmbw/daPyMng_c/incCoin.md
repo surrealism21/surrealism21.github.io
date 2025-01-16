@@ -6,5 +6,5 @@ Awards the player a shiny coin... without them actually having to collect one. T
 
 ### Comments
 This function cannot award the player multiple coins; you need to use a for loop.<br>
-The function uses `playerID` to run [`FUN_80060170`](FUN_80060170.md) on that player.
+The function uses `playerID` to run [`playerCheck`](playerCheck.md) on that player.
 

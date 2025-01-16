@@ -6,4 +6,4 @@ Awards the player(s) score.
 2. **playerID**: The player that receives the score. Does pretty much nothing, like the one in [`incCoin`](incCoin.md).
 
 ### Comments
-As with [`incCoin`](incCoin.md), this function uses the player ID as the parameter for `FUN_80060170`. 
+As with [`incCoin`](incCoin.md), this function uses the player ID as the parameter for [`playerCheck`](playerCheck.md). 

@@ -13,4 +13,4 @@ These are a bunch of base game functions I wanted to yap about. Enjoy or use for
     - `daPyMng_c::`<br>
         - [`incCoin`](/daPyMng_c/incCoin.md)<br>
         - [`addScore`](/daPyMng_c/addScore.md)<br>
-        - [`FUN_80060170`](/daPyMng_c/FUN_80060170.md)
+        - [`playerCheck`](/daPyMng_c/playerCheck.md)
